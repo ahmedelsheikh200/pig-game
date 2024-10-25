@@ -92,5 +92,5 @@ holdBtn.addEventListener('click', function () {
   }
 });
 
-// Reset game functionality
+// Reset game functionality now
 newGameBtn.addEventListener('click', init);
